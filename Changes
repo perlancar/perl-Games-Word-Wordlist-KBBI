@@ -1,5 +1,13 @@
 Revision history for Games-Word-Wordlist-KBBI
 
+0.02    2016-01-13 (PERLANCAR)
+
+	- No functional changes.
+
+	- To avoid duplication of efforts, now source the word list from
+	  WordList::ID::KBBI.
+
+
 0.01    2014-08-07 (SHARYANTO)
 
         - First release.
