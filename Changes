@@ -1,5 +1,3 @@
-Revision history for Games-Word-Wordlist-KBBI
-
 0.03    2016-01-13 (PERLANCAR)
 
 	- [Bugfix] Bump prereq version WordList::ID::KBBI -> 0.03 (requires
