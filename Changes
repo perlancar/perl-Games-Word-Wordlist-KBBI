@@ -1,10 +1,10 @@
-0.03    2016-01-13 (PERLANCAR)
+0.03    2016-01-13  Released-By: PERLANCAR
 
 	- [Bugfix] Bump prereq version WordList::ID::KBBI -> 0.03 (requires
 	  all_words() from WordList 0.1.1) [CT].
 
 
-0.02    2016-01-13 (PERLANCAR)
+0.02    2016-01-13  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -12,6 +12,6 @@
 	  WordList::ID::KBBI.
 
 
-0.01    2014-08-07 (SHARYANTO)
+0.01    2014-08-07  Released-By: SHARYANTO
 
         - First release.
